@@ -5,7 +5,7 @@
 <details>
   <summary><b>Clique aqui</b></summary>
 
-| Rank | Prioridade | Sprint | User Story | Estimativa | Requisitos do Parceiro |
+| Rank | Prioridade |  User Story | Estimativa | Sprint |  Requisitos do Parceiro |
 | :--: | :--------: | :------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :----: | :------------------------------------------------------------------------------------------------------------------ |
 | 1 | 🔴 Alta | Eu como cliente, quero unificar todos os checklists e cadastros atualmente utilizados em ferramentas distintas em uma única plataforma | ? | 2 | Centralização e unificação de checklists e cadastros |
 | 2 | 🔴 Alta | Eu como cliente, quero gerenciar checklists padronizados, para maior controle e organização das operações | ? | 2 | Checklists padronizados para empresa, agregados, frota e manutenção predial |
