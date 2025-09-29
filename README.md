@@ -20,7 +20,7 @@
 <details>
   <summary><b>Clique aqui</b></summary>
 
-| Rank | Prioridade | Sprint | User Story | Estimativa | Requisitos do Parceiro |
+| Rank | Prioridade |  User Story | Estimativa | Sprint |  Requisitos do Parceiro |
 | :--: | :--------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :----: | :---------------------------------------------------------------------------------: |
 | 1 | 🔴 Alta | Eu como cliente, quero uma plataforma centralizada para visualização, padronização e simplificação do acesso para todos os envolvidos | ? | 3 | Plataforma única de acesso, visualização e padronização que abranja o setor comercial, operacional e 
 | 2 | 🔴 Alta | Eu como cliente, quero notificações automáticas de eventos com link, confirmação ou recusa justificada, conclusão após participação, formulário de avaliação e documento padrão de registro | ? | 3 | Sistema de eventos com notificações, formulários e geração automática de relatórios |
