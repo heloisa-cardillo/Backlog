@@ -12,7 +12,7 @@
 | 3 | 🟠 Média | Eu como cliente, quero acessar informações da parte comercial e operacional em um só ambiente | ? | 2 | Integração de dados comerciais e operacionais na mesma plataforma |
 | 4 | 🟠 Média | Eu como cliente, quero cadastrar agregados com devolutiva automática após a conclusão do processo de cadastro | ? | 2 | Cadastro de agregados com feedback automático |
 | 5 | 🟠 Média | Eu como cliente, quero poder calcular a cotação de um frete de forma automática | ? | 2 | Cotação com cálculo automático de custos, valores e adicionais | 
-| 6 | 🟡 Baixa | Eu como cliente, quero visualizar a quantidade de funcionários e agregados, além dos veículos cadastrados para realizar uma análise de perfil | ? | 3 | Cadastro de funcionários, agregados e veículos com perfis atualizados |
+| 6 | 🟡 Baixa | Eu como cliente, quero visualizar a quantidade de funcionários e agregados, além dos veículos cadastrados para realizar uma análise de perfil | ? | 2 | Cadastro de funcionários, agregados e veículos com perfis atualizados |
 </details>
 
 ---
