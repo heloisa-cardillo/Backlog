@@ -25,6 +25,7 @@
 + itens do comercial
 pagina cotação que tenha o formulário de gestão de coleta -> precisam ir para a pagina de operacional
 melhorar o front 
+estilizar o email
 
 ---
 
