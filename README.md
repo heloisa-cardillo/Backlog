@@ -19,13 +19,17 @@
 | 2 | 🔴 Alta | Eu como cliente, quero gerenciar checklists padronizados, para maior controle e organização das operações | ? | 2 | Checklists padronizados para empresa, agregados, frota e manutenção predial |
 | 3 | 🟠 Média | Eu como cliente, quero acessar informações da parte comercial e operacional em um só ambiente | ? | 2 | Integração de dados comerciais e operacionais na mesma plataforma |
 | 4 | 🟠 Média | Eu como cliente, quero cadastrar agregados com devolutiva automática após a conclusão do processo de cadastro | ? | 2 | Cadastro de agregados com feedback automático |
-| 5 | 🟠 Média | Eu como gestor, quero eleger as permissões que cada liderado terá dentro do sistema, para controlar o nível de acesso conforme a função de cada colaborador | ? | 3 | Controle de permissões customizáveis por usuário |
+| 5 | 🟠 ALTA | Eu como gestor, quero eleger as permissões que cada liderado terá dentro do sistema, para controlar o nível de acesso conforme a função de cada colaborador | ? | 3 | Controle de permissões customizáveis por usuário  *->>> pedir para eles pre estabeleceram os acessos -> MASTER + GESTOR + FUNCIONARIO      +     Colocar Localização* |
 | 6 | 🟠 Média | Eu como cliente, quero poder calcular a cotação de um frete de forma automática | ? | 2 | Cotação com cálculo automático de custos, valores e adicionais | 
+<br>
 
-+ itens do comercial
-pagina cotação que tenha o formulário de gestão de coleta -> precisam ir para a pagina de operacional
-melhorar o front 
-estilizar o email
+**pagina cotação que tenha o formulário de gestão de coleta -> precisam ir para a pagina de operacional (???)**
+<br>
+
+**melhorar o front + estilizar o email -> Heloisa E serpa** -> precisa acabar o figma tbm 
+<br>
+
+**manual branchs e commits**
 
 ---
 
