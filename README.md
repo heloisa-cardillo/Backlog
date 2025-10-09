@@ -43,7 +43,6 @@
 | 2 | 🔴 Alta | Eu como cliente, quero notificações automáticas de eventos com link, confirmação ou recusa justificada, conclusão após participação, formulário de avaliação e documento padrão de registro | ? | 3 | Sistema de eventos com notificações, formulários e geração automática de relatórios |
 | 3 | 🔴 Alta | Eu como gestor, quero gerar relatórios específicos da minha área (comercial, operacional ou administrativa), para acompanhar o desempenho e facilitar a tomada de decisão | ? | 3 | Integração de dados comerciais e operacionais na mesma plataforma |
 | 4 | 🟡 Baixa | Eu como cliente, quero visualizar a quantidade de funcionários e agregados, além dos veículos cadastrados para realizar uma análise de perfil | ? | 2 | Cadastro de funcionários, agregados e veículos com perfis atualizados |
-</details>
 | 5 | 🟡 Baixa | Eu como usuário, quero que a plataforma seja responsiva para mobile, para que eu consiga acessar e utilizar todas as funcionalidades pelo celular ou tablet | ? | 3 | Responsividade da plataforma para dispositivos móveis |
 | 6 | 🟡 Baixa | Eu como cliente, quero que as informações dos fretes concluídos sejam automaticamente repassadas ao RH | ? | 2 | Integração de dados de fretes concluídos com o setor de RH |
 </details>
